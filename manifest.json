@@ -1,0 +1,11 @@
+{
+  "name": "Treyz Skool Extension",
+  "description": "Extension for Treyz Skool Stuph!",
+  "version": "1.0",
+  "manifest_version": 3,
+  "action": {
+    "default_popup": "home.html",
+    "default_icon": "homepage.png"
+  },
+  "permissions": ["tabs"]
+}
